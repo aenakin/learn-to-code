@@ -6,4 +6,6 @@ A collection of concise write-ups on my journey through Swift Playgrounds Learn 
 
 1
 * [Introduction](#introduction)
-* [Using the NOT operator](#not-operator)
+* [Using the NOT operator](#notoperator)
+* 
+* [Roll Right, Roll Left](#rollrightrollleft)
