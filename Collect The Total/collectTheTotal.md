@@ -81,6 +81,10 @@ while gemCounter < totalGems {
     walkAndCollect()
 }
 ```
+https://user-images.githubusercontent.com/99089521/152675524-20884653-351d-4905-8de6-9762e118a810.mp4
 
-That should do it! 
+And that's that!
 
+All in all, I know it's silly to get so excited about such a small achievement, but hey, I only just started yesterday. 
+
+Thank you for coming to my TED talk.
