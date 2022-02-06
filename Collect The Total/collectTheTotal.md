@@ -34,9 +34,6 @@ Great we're not getting stuck!
 
 So let's collect some gems now.
 
-let totalGems = randomNumberOfGems
-var gemCounter = 0
-
 ```swift
 func walkAndCollectGems() {
     if !isBlocked {
@@ -58,7 +55,8 @@ while true {
 
 Okay! It works, we're collecting gems.
 
-Now the only thing left to do is to add our **variable** `collectGems`, and give a rule to only collect as many gems as there is randomly generated.
+Now the only thing left to do is to add our **variable** `collectGems`, and give a rule to only collect as many gems as our **constant** `totalGems` tells
+us that there are.
 
 ```swift
 let totalGems = randomNumberOfGems
