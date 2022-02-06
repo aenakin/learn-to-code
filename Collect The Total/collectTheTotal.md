@@ -35,7 +35,7 @@ Great we're not getting stuck!
 So let's collect some gems now.
 
 ```swift
-func walkAndCollectGems() {
+func walkAndCollect() {
     if !isBlocked {
         moveForward()
         while isOnGem {
