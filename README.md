@@ -14,4 +14,4 @@ A collection of concise write-ups on my journey through Swift Playgrounds Learn 
 
 
 2
-* [Collect the Total](Collect%20the%20Total/collectTheTotal.md)
+* [Collect the Total](Collect%20The%20Total/collectTheTotal.md)
