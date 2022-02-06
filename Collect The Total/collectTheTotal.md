@@ -1,4 +1,4 @@
-Fors the last chapter of the first part on the 2nd course, I wanted to write a function from scratch, instead of copy pasting from previous exercises.
+For the last chapter of the first part on the 2nd course, I wanted to write a function from scratch, instead of copy pasting from previous exercises.
 Just to refresh my memory, and to learn I suppose.
 
 The only thing we were given this exercise was our **constant** `totalGems`, which is a randomly generated number from 1 to 12 based on the amount of 
