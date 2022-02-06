@@ -10,7 +10,7 @@ let totalGems = randomNumberOfGems
 
 Okay! Cool. Let's write something.
 
-First I had to make sure that the `func` was working correctly, and I wasn't getting stuck anywhere.
+First I had to make sure that the **function** `walkAndCollect()` was working correctly, and I wasn't getting stuck anywhere.
 
 ```Swift
 func walkAndCollect() {
