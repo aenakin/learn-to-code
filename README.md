@@ -11,3 +11,7 @@ A collection of concise write-ups on my journey through Swift Playgrounds Learn 
 * [Portal Practice](Portal%20Practice/portalPractice.md)
 * [Using the NOT operator](Using%20the%20NOT%20Operator/usingTheNotOperator.md)
 * [Roll Right, Roll Left](Roll%20Right%20Roll%20Left/rollRightRollLeft.md)
+
+
+2
+[Collect the Total](Collect%20the%20Total/collectTheTotal.md)
