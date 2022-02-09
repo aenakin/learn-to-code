@@ -1,4 +1,4 @@
-Nothin to add.
+Nothing to add.
 
 ```swift
 let expert = Expert()
