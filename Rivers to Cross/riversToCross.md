@@ -2,7 +2,9 @@ Nothing to add.
 
 ```swift
 let expert = Expert()
+
 world.place(expert, facing: .south, atColumn: 1, row: 8)
+
 extension Expert {
     func turnAround() {
         turnLeft()
