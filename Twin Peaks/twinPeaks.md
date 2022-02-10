@@ -6,6 +6,7 @@ thus the level name ***Twin Peaks***.
 So once the platforms were in position, it was about making your character loop around, until the correct amount **Gems** were collected.
 
 ```swift
+let totalGems = randomNumberOfGems
 var gemCount = 0
 
 let expert = Expert()
